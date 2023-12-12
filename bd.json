@@ -1,0 +1,60 @@
+{
+  "progresiones": [
+    {
+      "progresion": "Amaj",
+      "acordes": ["A", "Bm", "C#m", "D", "E", "F#m", "G#dim"]
+    },
+    {
+      "progresion": "Bmaj",
+      "acordes": ["B", "C#m", "D#m", "E", "F#", "G#m", "A#dim"]
+    },
+    {
+      "progresion": "Cmaj",
+      "acordes": ["C", "Dm", "Em", "F", "G", "Am", "A#dim"]
+    },
+    {
+      "progresion": "Dmaj",
+      "acordes": ["D", "Em", "F#m", "G", "A", "Bm", "C#dim"]
+    },
+    {
+      "progresion": "Emaj",
+      "acordes": ["E", "F#m", "G#m", "A", "B", "C#m", "D#dim"]
+    },
+    {
+      "progresion": "Fmaj",
+      "acordes": ["F", "Gm", "Am", "Bb", "C", "Dm", "Edim"]
+    },
+    {
+      "progresion": "Gmaj",
+      "acordes": ["G", "Am", "Bm", "C", "D", "Em", "F#dim"]
+    },
+    {
+      "progresion": "Amin",
+      "acordes": ["Am", "Bdim", "C", "Dm", "Em", "F", "G"]
+    },
+    {
+      "progresion": "Bmin",
+      "acordes": ["Bm", "C#dim", "D", "Em", "F#m", "G", "A"]
+    },
+    {
+      "progresion": "Cmin",
+      "acordes": ["Cm", "Ddim", "Eb", "Fm", "Gm", "Ab", "Bb"]
+    },
+    {
+      "progresion": "Dmin",
+      "acordes": ["Dm", "Edim", "F", "Gm", "Am", "Bb", "C"]
+    },
+    {
+      "progresion": "Emin",
+      "acordes": ["Em", "F#dim", "G", "Am", "Bm", "C", "D"]
+    },
+    {
+      "progresion": "Fmin",
+      "acordes": ["Fm", "Gdim", "Ab", "Bbm", "Cm", "Db", "Eb"]
+    },
+    {
+      "progresion": "Gmin",
+      "acordes": ["Gm", "Adim", "Bb", "Cm", "Dm", "Eb", "F"]
+    }
+  ]
+}
